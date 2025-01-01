@@ -1,0 +1,9 @@
+[submodule "shove"]
+	path = shove
+	url = https://github.com/burntnail/shove
+[submodule "vent"]
+	path = vent
+	url = https://github.com/burntnail/vent
+[submodule "souris"]
+	path = souris
+	url = https://github.com/BurntNail/Souris
